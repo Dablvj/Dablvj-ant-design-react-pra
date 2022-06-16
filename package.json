@@ -1,0 +1,19 @@
+{
+  "name": "ant-design-react-pra",
+  "version": "1.0.0",
+  "description": "react ant-design components practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dablvj/Dablvj-ant-design-react-pra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dablvj/Dablvj-ant-design-react-pra/issues"
+  },
+  "homepage": "https://github.com/Dablvj/Dablvj-ant-design-react-pra#readme"
+}
